@@ -74,28 +74,28 @@ googleAnalytics = "" #put your google-analytics ID here
       enable = true
       [[params.section.statistic]]
         icon = "fa-code-fork"
-        value = "5,120"
-        text = "Etiam"
+        value = "000"
+        text = "Title Here"
       [[params.section.statistic]]
         icon = "fa-folder-open-o"
-        value = "8,192"
-        text = "Magna"
+        value = "000"
+        text = "Title Here"
       [[params.section.statistic]]
         icon = "fa-signal"
-        value = "2,048"
-        text = "Tempus"
+        value = "000"
+        text = "Title Here"
       [[params.section.statistic]]
         icon = "fa-laptop"
-        value = "4,096"
-        text = "Aliquam"
+        value = "000"
+        text = "Title Here"
       [[params.section.statistic]]
         icon = "fa-diamond"
-        value = "1,024"
-        text = "Nullam"
+        value = "000"
+        text = "Title Here"
 
     [params.section.content]
       enable = true
-      text = "Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia."
+      text = "Description Here"
 
     [params.section.footer]
       enable = true
@@ -106,7 +106,7 @@ googleAnalytics = "" #put your google-analytics ID here
 
   [[params.section]]
     id = "cta"
-    title = "Congue imperdiet"
+    title = "Title Here"
     description = "Description Here"
     [params.section.footer]
       enable = true
