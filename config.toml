@@ -29,8 +29,8 @@ googleAnalytics = "" #put your google-analytics ID here
     href = "#cta"
 
   [params.intro]
-    title = "Simple, Easy"
-    description = "Fast and reliable websties made easy"
+    title = "Title Here"
+    description = "Description Here"
     image = "images/pic01.jpg"
     [[params.intro.action]]
       buttontext = "Learn More"
@@ -39,26 +39,24 @@ googleAnalytics = "" #put your google-analytics ID here
 
   [[params.section]]
     id = "first"
-    title = "Magna veroeros"
+    title = "Title Here"
     description = ""
     
     # the picture is stored at static/images/
     [params.section.features]
       enable = true
       [[params.section.feature]]
-        title = "Ipsum consequat"
-        description = "Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat."
+        title = "Title Here"
+        description = "Description Here"
         icon = "fa-code"
 
       [[params.section.feature]]
-        title = "Amed sed feugiat"
-        description = "Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat."
-        icon = "fa-copy"
+        title = "Title Here"
+        description = "Description Here"
 
       [[params.section.feature]]
-        title = "Dolor nullam"
-        description = "Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat."
-        icon = "fa-diamond"
+        title = "Title Here"
+        description = "Description Here"
     [params.section.footer]
       enable = true
       [[params.section.footer.action]]
@@ -67,8 +65,8 @@ googleAnalytics = "" #put your google-analytics ID here
 
   [[params.section]]
     id = "second"
-    title = "Ipsum consequat"
-    description = "Donec imperdiet consequat consequat. Suspendisse feugiat congue posuere. Nulla massa urna, fermentum eget quam aliquet."
+    title = "Title Here"
+    description = "Description Here"
 
     [params.section.statistics]
       enable = true
