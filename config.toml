@@ -8,8 +8,8 @@ googleAnalytics = "" #put your google-analytics ID here
 
 [params]
   [params.header]
-    title = "Building Blocks"
-    description = 'test'
+    title = "Title Here"
+    description = 'Description Here'
     image = "images/logo.svg"
 
   [[params.navigation]]
@@ -53,10 +53,12 @@ googleAnalytics = "" #put your google-analytics ID here
       [[params.section.feature]]
         title = "Title Here"
         description = "Description Here"
+        icon = "fa-copy"
 
       [[params.section.feature]]
         title = "Title Here"
         description = "Description Here"
+        icon = "fa-diamond"
     [params.section.footer]
       enable = true
       [[params.section.footer.action]]
@@ -105,7 +107,7 @@ googleAnalytics = "" #put your google-analytics ID here
   [[params.section]]
     id = "cta"
     title = "Congue imperdiet"
-    description = "Donec imperdiet consequat consequat. Suspendisse feugiat congue posuere. Nulla massa urna, fermentum eget quam aliquet."
+    description = "Description Here"
     [params.section.footer]
       enable = true
       [[params.section.footer.action]]
@@ -118,8 +120,8 @@ googleAnalytics = "" #put your google-analytics ID here
 
   [params.footer]
     enable = true
-    title = "Aliquam sed mauris"
-    description = "Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae tincidunt odio."
+    title = "Title Here"
+    description = "Description Here"
 
     second_title = "Get in Touch"
     address = "Earth"
