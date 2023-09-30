@@ -9,7 +9,7 @@ googleAnalytics = "" #put your google-analytics ID here
 [params]
   [params.header]
     title = "Building Blocks"
-    description = 'Just another free, fully responsive site template built by [@ajlkn](https://twitter.com/ajlkn) for <a href="https://html5up.net">HTML5 UP</a>. Ported to [hugo](https://gohugo.io) by [@AntonPolishko](https://github.com/antonpolishko)'
+    description = 'test'
     image = "images/logo.svg"
 
   [[params.navigation]]
